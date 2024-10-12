@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="DeisiWorldMeterParte2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AUTHORS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DeisiWorldMeterParte2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
